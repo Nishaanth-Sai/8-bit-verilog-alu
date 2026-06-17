@@ -1,3 +1,9 @@
+/*
+Author: Nishaanth Sai Vinodh Kumar
+Project: 8-Bit ALU
+Language: Verilog HDL
+*/
+
 `timescale 1ns/1ps
 
 module ALU_tb;

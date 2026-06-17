@@ -1,3 +1,10 @@
+/*
+Author: Nishaanth Sai Vinodh Kumar
+Project: 8-Bit ALU
+Language: Verilog HDL
+*/
+
+
 module ALU (
     input [7:0] a,      // First 8-bit operand
     input [7:0] b,      // Second 8-bit operand
